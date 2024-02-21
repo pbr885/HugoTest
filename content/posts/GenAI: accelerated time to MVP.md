@@ -8,7 +8,7 @@ Something that occurred to me today when I for the first time learned about Clou
 
 Back in high school creating a homepage meant HTML and FTP uploads, and that was it for me then. More recently, I wrangled a functioning site out of a hosted WordPress.
 
-Today, with some help of RaycastAI (and significant guidance from Ben, who nudged me to even start this endeavor), I managed to set up Hugo, set up Github, set up Cloudflare, and managed to make sense of error messages I received due to wrong info in configuration files or changed processes.
+Today, with some help of RaycastAI (and significant guidance from [Ben](https://https://ben.wf/), who nudged me to even start this endeavor), I managed to set up Hugo, set up Github, set up Cloudflare, and managed to make sense of error messages I received due to wrong info in configuration files or changed processes.
 
 Now, in no way is the result perfect, but I was astonished by how smoothly it all went. I started out with some guide websites, as I would have done pre-GenAI, but I was able to deal with anything thrown at me that would have led to more frustrated googling in the past, as those things weren't covered in the guide. Now, even taking into account that googles results are better for error messages than they are for more general queries, it would've been frustrating.
 
