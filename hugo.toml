@@ -5,6 +5,16 @@ theme= 'hugo-PaperMod'
 [params]
   stylesheet = "/layouts/css/main.css"
 [markup]
-    [markup.goldmark]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xHTML = false
     [markup.goldmark.extensions]
-        footnote = true
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
