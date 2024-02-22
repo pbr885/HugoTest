@@ -1,4 +1,6 @@
 baseURL = 'https://hugotest-9js.pages.dev/'
 languageCode = 'en-us'
-title = 'random musings'
+title = 'conservative cybernetics'
 theme= 'hugo-PaperMod'
+[params]
+  stylesheet = "/layouts/css/main.css"
