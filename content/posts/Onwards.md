@@ -1,8 +1,8 @@
-+++
+---
 title = "2024-02-22: What's in a name?"
 date = 2024-02-22T21:02:15+01:00
 draft = false
-+++
+---
 >"Well, in our country," said Alice, still panting a little, "you'd generally get to somewhere else—if you run very fast for a long time, as we've been doing."
 >"A slow sort of country!" said the Queen. "Now, here, you see, it takes all the running you can do, to keep in the same place.[1]
 
