@@ -1,5 +1,5 @@
 +++
-title = '2024-02-22: What\'s in a name?'
+title = "2024-02-22: What's in a name?"
 date = 2024-02-22T21:02:15+01:00
 draft = false
 +++
