@@ -4,3 +4,8 @@ title = 'conservative cybernetics'
 theme= 'hugo-PaperMod'
 [params]
   stylesheet = "/layouts/css/main.css"
+[markup]
+defaultMarkdownHandler = "goldmark"
+[goldmark]
+[Extensions]
+footnote = true
