@@ -5,7 +5,6 @@ theme= 'hugo-PaperMod'
 [params]
   stylesheet = "/layouts/css/main.css"
 [markup]
-defaultMarkdownHandler = "goldmark"
-[goldmark]
-[Extensions]
-footnote = true
+    [markup.goldmark]
+    [markup.goldmark.extensions]
+        footnote = true
