@@ -4,7 +4,7 @@ title = 'conservative cybernetics'
 theme= 'hugo-PaperMod'
 [params]
     Title = "Welcome"
-    Content = ""Welcome to my first blog. This is an ongoing experiment and learning experience."
+    Content = "Welcome to my first blog. This is an ongoing experiment and learning experience."
     stylesheet = "/layouts/css/main.css"
 [markup]
   [markup.goldmark]
