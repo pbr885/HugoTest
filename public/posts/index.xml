@@ -6,14 +6,23 @@
     <description>Recent content in Posts on conservative cybernetics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 21:42:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 09:09:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022-02-22: Getting (more) serious - How about a name?</title>
+      <title>2024-02-24: Cultivating Awe #1 - in Espresso</title>
+      <link>http://localhost:1313/posts/2024-02-24-cultivating-awe-</link>
+      <pubDate>Sat, 24 Feb 2024 09:09:19 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2024-02-24-cultivating-awe-</guid>
+      <description>Michael Gervais in his excellent podcast &amp;ldquo;Finding Mastery&amp;rdquo; mentioned at some points that he assessed his days by actively counting the times he was in awe.
+This morning, I was reminded when I sipped the first Espresso of the day. Freshly ground, freshly pulled.
+Someone, somewhere in Ethiopia took care of a coffee plant well and long enough for it to bear fruit, and it was then harvested. Brough to Europe.</description>
+    </item>
+    <item>
+      <title>2024-02-22: What&#39;s in a name?</title>
       <link>http://localhost:1313/posts/2024_02_22_onwards/</link>
       <pubDate>Thu, 22 Feb 2024 21:42:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/2024_02_22_onwards/</guid>
-      <description>&amp;ldquo;Well, in our country,&amp;rdquo; said Alice, still panting a little, &amp;ldquo;you&amp;rsquo;d generally get to somewhere else—if you run very fast for a long time, as we&amp;rsquo;ve been doing.&amp;rdquo; &amp;ldquo;A slow sort of country!&amp;rdquo; said the Queen. &amp;ldquo;Now, here, you see, it takes all the running you can do, to keep in the same place.[1]
+      <description>&amp;ldquo;Well, in our country,&amp;rdquo; said Alice, still panting a little, &amp;ldquo;you&amp;rsquo;d generally get to somewhere else—if you run very fast for a long time, as we&amp;rsquo;ve been doing.&amp;rdquo; &amp;ldquo;A slow sort of country!&amp;rdquo; said the Queen. &amp;ldquo;Now, here, you see, it takes all the running you can do, to keep in the same place.[^1]
 &amp;ldquo;Conservatism&amp;rdquo; has been hijacked by contemporary political language. It has come to mean trying to maintain things as they&amp;rsquo;re perceived to have been, but actually never were.</description>
     </item>
     <item>
@@ -23,22 +32,6 @@
       <guid>http://localhost:1313/posts/genai-accelerated-time-to-mvp/</guid>
       <description>Something that occurred to me today when I for the first time learned about Cloudflare&amp;rsquo;s serverless offerings, Hugo and Git. I admit that I&amp;rsquo;m way behind the curve for all of those things, but in my career or life so far it had never come up.
 Back in high school creating a homepage meant HTML and FTP uploads, and that was it for me then. More recently, I wrangled a functioning site out of a hosted WordPress.</description>
-    </item>
-    <item>
-      <title>2024_02_21 RWRI</title>
-      <link>http://localhost:1313/posts/2024_02_21-rwri/</link>
-      <pubDate>Wed, 21 Feb 2024 17:02:56 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2024_02_21-rwri/</guid>
-      <description>Real World Risk Institute
-„Zertifikate nutzen vor allem denen, die sie ausstellen“ - Inwiefern das auch auf das Real World Risk Institute (RWRI)-Zertifikat zutrifft vermag ich nicht zu sagen. Klar ist jedoch, dass mir die zwei Wochen im letzten Sommer sehr genutzt haben.
-„Correlation is not correlation“ Nachdem in meinem Bachelor und Master Statistik kaum vorkamen war Talebs Kanon von Anfang an herausfordernde Lektüre, obschon er seine Ideen zugänglich vermittelt. „With minimal equations“ war auch das Versprechen für RWRI - das wurde gehalten während Kernideen vermittelt und vertieft wurden.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 21 Feb 2024 16:25:57 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Test</description>
     </item>
   </channel>
 </rss>
