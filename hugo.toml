@@ -1,14 +1,12 @@
-baseURL = 'https://https://hugotest-9js.pages.dev/'
+baseURL = 'https://www.conservativecybernetics.cc/'
 languageCode = 'en-us'
 title = 'conservative cybernetics'
 theme= 'hugo-PaperMod'
 [params]
-    Title = "Welcome"
-    Content = "Welcome to my first blog. This is an ongoing experiment and learning experience."
     stylesheet = "/layouts/css/main.css"
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
       footnote = true
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+
