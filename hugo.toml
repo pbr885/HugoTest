@@ -1,4 +1,4 @@
-baseURL = 'https://conservativecybernetics.cc/'
+baseURL = 'https://www.conservativecybernetics.cc/'
 languageCode = 'en-us'
 title = 'conservative cybernetics'
 theme= 'hugo-PaperMod'
