@@ -1,5 +1,5 @@
 ---
-title: '2024 02 24: Cultivating Awe #1 - in Espresso'
+title: '2024-02-24: Cultivating Awe #1 - in Espresso'
 date: 2024-02-24T09:09:19+01:00
 draft: false
 ---
